@@ -1,29 +1,29 @@
 # 00_03 Create an Atlassian Account
 
 1. https://id.atlassian.com/signup
-	2. sign up using an email address or an account from:
+	1. sign up using an email address or an account from:
 		1. Google
-		2. Microsoft
-		3. Apple
-		4. Slack
-	5. With email you'll create a password to use with your login
-6. https://start.atlassian.com/
-	7. On the start page, you'll find the tools you can access with your Atlassian account including:
+		1. Microsoft
+		1. Apple
+		1. Slack
+	1. With email you'll create a password to use with your login
+1. https://start.atlassian.com/
+	1. On the start page, you'll find the tools you can access with your Atlassian account including:
 		1. Jira Software
-		2. Confluence
-		3. Jira Service Management
-		4. Bitbucket
-		5. Statuspage
-6. Select **Bitbucket**
-7. Create a username
-	8. Explain why a login and username are needed
-	9. Bitbucket URL, probably
-10. "Before we drop you in Bitbucket, help us tailor your experience"
-	11. Answer the survey questions or skip
-	12. SKIP! :D
-12. Move on to content organization to discuss:
-	13. Workspaces
-	14. Projects
-	15. and Repositories
+		1. Confluence
+		1. Jira Service Management
+		1. Bitbucket
+		1. Statuspage
+1. Select **Bitbucket**
+1. Create a username
+	1. Explain why a login and username are needed
+	1. Bitbucket URL, probably
+1. "Before we drop you in Bitbucket, help us tailor your experience"
+	1. Answer the survey questions or skip
+	1. SKIP! :D
+1. Move on to content organization to discuss:
+	1. Workspaces
+	1. Projects
+	1. and Repositories
 
 
