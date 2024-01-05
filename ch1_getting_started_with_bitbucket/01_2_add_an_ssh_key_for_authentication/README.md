@@ -1,1 +1,0 @@
-ch1_getting_started_with_bitbucket/01_2_add_an_ssh_key_for_authentication

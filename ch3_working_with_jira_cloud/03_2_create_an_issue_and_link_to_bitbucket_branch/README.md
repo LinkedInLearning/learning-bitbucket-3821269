@@ -1,1 +1,0 @@
-ch3_working_with_jira_cloud/03_2_create_an_issue_and_link_to_bitbucket_branch

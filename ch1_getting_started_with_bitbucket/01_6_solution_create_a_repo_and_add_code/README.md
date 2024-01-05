@@ -1,1 +1,0 @@
-ch1_getting_started_with_bitbucket/01_6_solution_create_a_repo_and_add_code

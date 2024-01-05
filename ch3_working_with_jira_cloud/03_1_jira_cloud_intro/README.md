@@ -1,1 +1,0 @@
-ch3_working_with_jira_cloud/03_1_jira_cloud_intro

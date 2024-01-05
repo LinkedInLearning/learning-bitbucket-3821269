@@ -1,1 +1,0 @@
-ch1_getting_started_with_bitbucket/01_1_public_and_private_repositories

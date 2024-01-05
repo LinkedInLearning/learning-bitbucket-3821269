@@ -1,1 +1,0 @@
-ch0_introduction/00_3_create_an_atlassian_account
