@@ -7,7 +7,7 @@
 		1. Apple
 		1. Slack
 	1. With email you'll create a password to use with your login
-1. https://start.atlassian.com/
+1. https://start.atlassian.com/ or https://team.atlassian.com/your-work
 	1. On the start page, you'll find the tools you can access with your Atlassian account including:
 		1. Jira Software
 		1. Confluence
