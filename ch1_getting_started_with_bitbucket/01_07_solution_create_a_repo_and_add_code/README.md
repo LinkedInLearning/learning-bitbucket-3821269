@@ -64,7 +64,7 @@ This challenge should take about 15 minutes to complete.
 1. Stage the file to be committed: `git add CONTRIBUTING.md` or `git add .`
 1. Create a new commit: `git commit -m "repo is ready"`
 
-    *NOTE: If you run `git commit`  and see the error "Author identity unknown", follow the directions ion using `git config` to configure your name and email.  Review the following documents for more details.*
+    *NOTE: If you run `git commit`  and see the error "Author identity unknown", follow the directions to configure your name and email using `git config`.  Review the following documents for more details:*
     
     *- [Atlassian Support: Configure your DVCS username for commits](https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/)*
     *- [Pro Git: Getting Started - First-Time Git Set](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)* 
