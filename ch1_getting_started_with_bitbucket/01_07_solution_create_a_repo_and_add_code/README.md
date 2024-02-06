@@ -70,7 +70,7 @@ This challenge should take about 15 minutes to complete.
 
 1. Push the commit: `git push`
 
-### Conclustion
+### Conclusion
 Go back to the BitBucket web interface and review the:
 
 1. workspace
