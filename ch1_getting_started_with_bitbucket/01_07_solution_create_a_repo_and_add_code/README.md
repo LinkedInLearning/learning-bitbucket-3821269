@@ -55,11 +55,11 @@ This challenge should take about 15 minutes to complete.
 1. Change directories into the repo's working directory: `cd team` or `cd source`.
 1. Create an empty file named `CONTRIBUTING.md`
 
-    | Operating System     | Command                                           |
-    |----------------------|---------------------------------------------------|
-    | macOS, Linux, and WSL      | `touch CONTRIBUTING.md`                          |
-    | Windows (CMD) | `type nul > CONTRIBUTING.md`                   |
-    | Windows (PowerShell)   | `New-Item -ItemType File -Name CONTRIBUTING.md`  |
+    | Operating System      | Command                                          |
+    |-----------------------|--------------------------------------------------|
+    | macOS, Linux, and WSL | `touch CONTRIBUTING.md`                          |
+    | Windows (CMD)         | `type nul > CONTRIBUTING.md`                     |
+    | Windows (PowerShell)  | `New-Item -ItemType File -Name CONTRIBUTING.md`  |
 
 1. Stage the file to be committed: `git add CONTRIBUTING.md` or `git add .`
 1. Create a new commit: `git commit -m "repo is ready"`
