@@ -25,4 +25,7 @@ pdf:
 	@cd $(PROJECT_HOME);
 
 clean:
-	find . -name '*.bak' -exec rm -vf {} \;
+	find . -type f -name \*.bak -exec rm -vf {} \;
+
+nuke: clean
+	find /tmp/ -type f -name \*.pdf -exec rm -vf {} \;
