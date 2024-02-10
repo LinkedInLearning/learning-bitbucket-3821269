@@ -1,13 +1,13 @@
-README_FILES := $(shell find . -name 'README.md' -not -path '*/node_modules/*' -not -path './.git/*')
+README_FILES := $(shell find . -name 'README.md' -not -path './.git/*')
 
 hello:
 	@echo "This makefile has the following tasks:"
 	@echo "\tspellcheck  - spell check README files"
 	@echo "\tpdf         - generate PDFs for README files"
 	@echo "\tclean       - remove backup files"
-	@echo "\tall         - run all tasks"
+	@echo "\tall         - run all tasks (except clean)"
 
-all: spellcheck pdf clean
+all: spellcheck pdf
 	@echo "Done."
 
 spellcheck:
@@ -20,9 +20,7 @@ spellcheck:
 pdf:
 	@echo "Generating PDFs..."
 	@while read -r dir; do \
-		echo "\t$(PROJECT_HOME)/$$dir"; \
-		cd $(PROJECT_HOME)/$$dir; \
-		pandoc README.md -o "/tmp/$$(basename "$$dir").pdf"; \
+		$(MAKE) --no-print-directory --directory $(PROJECT_HOME)/$$dir; \
 	done < CHAPTER_LIST.txt
 	@cd $(PROJECT_HOME);
 
