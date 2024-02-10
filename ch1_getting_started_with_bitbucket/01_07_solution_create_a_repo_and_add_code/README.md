@@ -3,14 +3,14 @@
 ## Challenge Scenario
 Let’s use a challenge to apply what you’ve learned about Bitbucket.
 
-You’re part of a software development team working on a new, AMAZING, open source application.  The team is inviting the community to work with them and they need a cloud-based repository service to store the code.
+You’re part of a software development team working on a new, AMAZING, open-source application.  The team is inviting the community to work with them and they need a cloud-based repository service to store the code.
 
-The team is asking you to configure Bitbucket so the community can see their progress.  However, they also need to work with some files separately and discretely, away from the application’s code base.
+The team is asking you to configure Bitbucket so the community can add files to the application.  However, they also need to work with some files separately and discretely, away from the application’s code base.
 
 ## Challenge Tasks
 1. Log into Bitbucket and create a new workspace.
 1. In the new workspace, create a project named **`amazing`** with two repositories.
-1. The first repo should be named **`source`**.  This repo should be visible to anyone with the URL.
+1. The first repo should be named **`community`**.  This repo should be visible to anyone with the URL.
 1. The second repo should be named **`team`** and should only be visible by members of the team.
 1. Clone both repos to your local system and add a markdown file named **`CONTRIBUTING.md`** to each repo.
 1. Push the files back to Bitbucket with the commit message **`repo is ready`**.
@@ -28,7 +28,7 @@ This challenge should take about 15 minutes to complete.
     1. Select **Create**.
 1. Select **Create Repository**.
     1. In the "Project name" field, enter **`amazing`**.
-    1. In the "Repository name" field, enter **`source`**
+    1. In the "Repository name" field, enter **`community`**
     1. **Deselect the checkbox** next to "Private repository".
     1. Select **Create Repository**.
 1. From the menu bar near the top of the page, select **Create -> Repository**.
@@ -37,13 +37,13 @@ This challenge should take about 15 minutes to complete.
     1. Confirm that the checkbox is selected next to "Private repository".
     1. Select **Create Repository**.
 1. From the menu bar near the top of the page, select **Repositories**.
-1. Confirm that the **source** repository does *not* have a lock icon, indicating the repo is public.
+1. Confirm that the **community** repository does *not* have a lock icon, indicating the repo is public.
 1. Confirm that the **team** repository has a lock icon, indicating the repo is private.
 
-    ![The team and source repositories](./01_07-solution-1.png)
+    ![The team and community repositories](./01_07-solution-1.png)
 ### Clone the repositories to your local system
 
-*Repeat the same steps for the **source** and **team** repositories*.
+*Repeat the same steps for the **community** and **team** repositories*.
 
 1. Open the homepage for the repository.
 1. Select the **Clone** button on the top, right hand side of the page.
@@ -52,7 +52,7 @@ This challenge should take about 15 minutes to complete.
     ![Clone using the SSH protocol](./01_07-solution-2.png)
 
 1. Open a terminal on your local system.  Paste and run the `git clone` command.
-1. Change directories into the repo's working directory: `cd team` or `cd source`.
+1. Change directories into the repo's working directory: `cd team` or `cd community`.
 1. Create an empty file named `CONTRIBUTING.md`
 
     | Operating System      | Command                                          |

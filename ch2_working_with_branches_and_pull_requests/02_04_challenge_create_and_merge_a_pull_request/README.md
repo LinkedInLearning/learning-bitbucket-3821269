@@ -3,7 +3,7 @@
 ## Challenge Scenario
 Let’s use another challenge to practice what you’ve learned about Bitbucket.
 
-In the previous challenge, you configured Bitbucket for The Amazing App project.  You created two repositories; one for open source development and another for the team's internal files.
+In the previous challenge, you configured Bitbucket for The Amazing App project.  You created two repositories; one for contributions from the community and another for the team's internal files.
 
 Now let's test your Bitbucket skills again.
 
@@ -12,8 +12,8 @@ As the Bitbucket expert for the team, you’ve been given another task: Demonstr
 ## Challenge Tasks
 > *NOTE: If you haven't completed the challenge for Chapter 1, review and complete the steps for [01_07 Solution: Create a Repo and Push Code](../../ch1_getting_started_with_bitbucket/01_07_solution_create_a_repo_and_add_code/README.md) before proceeding with this challenge.
 
-1. Log into Bitbucket and locate the workspace and project you created in the previous challenge.
-1. Inside the **source** repository, create a feature branch named `pull-request-demo`.
+1. Log into Bitbucket and locate the workspace containing the **community** repository you created in the previous challenge.
+1. Inside the **community** repository, create a feature branch named `pull-request-demo`.
 
     > *Note that this should be a feature branch.*
 

@@ -3,17 +3,22 @@
 ## Challenge Scenario
 Let’s use another challenge to practice what you’ve learned about Bitbucket.
 
-In the previous challenge, you configured Bitbucket for The Amazing App project.  You created two repositories; one for open source development and another for the team's internal files.
+In the previous challenge, you configured Bitbucket for The Amazing App project.  You created two repositories; one for contributions from the community and another for the team's internal files.
 
 Now let's test your Bitbucket skills again.
 
-As the Bitbucket expert for the team, you’ve been given another task: Demonstrate how the team should review updates to a repo by using branches and pull requests.
+As the Bitbucket expert for the team, you’ve been given another task: Demonstrate how the team should review updates to the open-source repo by using branches and pull requests.
 
 ## Challenge Tasks
-> *NOTE: If you haven't completed the challenge for Chapter 1, review and complete the steps for [01_07 Solution: Create a Repo and Push Code](../../ch1_getting_started_with_bitbucket/01_07_solution_create_a_repo_and_add_code/README.md) before proceeding with this challenge. TLDR: Create a workspace, create a public repository named `source, and create a file named `CONTRIBUTING.md`.
+> *NOTE: If you haven't completed the challenge for Chapter 1, review and complete the steps for [01_07 Solution: Create a Repo and Push Code](../../ch1_getting_started_with_bitbucket/01_07_solution_create_a_repo_and_add_code/README.md) before proceeding with this challenge.*
+>
+> *TLDR? create the following:*
+>- *Workspace*
+>- *Public repository named `community`*
+>- *File named `CONTRIBUTING.md`.*
 
-1. Log into Bitbucket and locate the workspace and **source** repository you created in the previous challenge.
-1. Inside the **source** repository, create a feature branch named `pull-request-demo`.
+1. Log into Bitbucket and locate the workspace containing the **community** repository you created in the previous challenge.
+1. Inside the **community** repository, create a feature branch named `pull-request-demo`.
 
     > *Note that this should be a feature branch.*
 
@@ -35,10 +40,7 @@ This challenge should take about 15 minutes to complete.
 ### 1. Create a branch and add changes
 1. Log into Bitbucket and browse the [workspaces homepage](https://bitbucket.org/account/workspaces/).
 1. Select the workspace you created in the first challenge.
-1. On the workspace overview, select the **source** repository.
-    
-    ![](././02_05-solution-1.png)
-
+1. On the workspace overview, select the **community** repository.
 1. Select **Branches** on the left sidebar.
 1. Select **Create branch**.
 
@@ -60,7 +62,7 @@ This challenge should take about 15 minutes to complete.
 1. Select **Preview**. Review and confirm your changes.
 1. Select **Commit**.
 1. On the **Commit changes** dialog, update the commit message.
-    
+
     > *NOTE: **DO NOT** select "Create a pull request for this change"*
 
     ![](././02_05-solution-4.png)
