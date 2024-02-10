@@ -71,7 +71,7 @@ This challenge should take about 15 minutes to complete.
 
 ### 2. Create and merge a pull request
 1. Select **Pull requests** on the left sidebar.
-1. Select **Create pull reqeust**.
+1. Select **Create pull request**.
 1. Confirm that the **Source Branch** is `feature/pull-request-demo`
 and **Destination Branch** is `main`.
 1. Enter a description.
@@ -87,6 +87,6 @@ and **Destination Branch** is `main`.
     ![Merge the pull request](./02_05-solution-6.png)
 
 ## Conclusion
-After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by commiting to the feature branch and merging the branch into the `main` branch.
+After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by committing to the feature branch and merging the branch into the `main` branch.
 
 ![Review the branch visualization after merging the feature branch into main](./02_05-solution-7.png)
