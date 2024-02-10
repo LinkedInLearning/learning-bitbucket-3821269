@@ -86,6 +86,7 @@ and **Destination Branch** is `main`.
 
     ![](././02_05-solution-6.png)
 
-1. After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by commiting to the feature branch and merging the branch into the `main` branch.
+## Conclusion
+After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by commiting to the feature branch and merging the branch into the `main` branch.
 
     ![](./02_05-solution-7.png)
