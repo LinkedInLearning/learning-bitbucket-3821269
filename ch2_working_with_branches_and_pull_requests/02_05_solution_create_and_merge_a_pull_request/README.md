@@ -10,9 +10,9 @@ Now let's test your Bitbucket skills again.
 As the Bitbucket expert for the team, you’ve been given another task: Demonstrate how the team should review updates to a repo by using branches and pull requests.
 
 ## Challenge Tasks
-> *NOTE: If you haven't completed the challenge for Chapter 1, review and complete the steps for [01_07 Solution: Create a Repo and Push Code](../../ch1_getting_started_with_bitbucket/01_07_solution_create_a_repo_and_add_code/README.md) before proceeding with this challenge.
+> *NOTE: If you haven't completed the challenge for Chapter 1, review and complete the steps for [01_07 Solution: Create a Repo and Push Code](../../ch1_getting_started_with_bitbucket/01_07_solution_create_a_repo_and_add_code/README.md) before proceeding with this challenge. TLDR: Create a workspace, create a public repository named `source, and create a file named `CONTRIBUTING.md`.
 
-1. Log into Bitbucket and locate the workspace and project you created in the previous challenge.
+1. Log into Bitbucket and locate the workspace and **source** repository you created in the previous challenge.
 1. Inside the **source** repository, create a feature branch named `pull-request-demo`.
 
     > *Note that this should be a feature branch.*
@@ -20,6 +20,7 @@ As the Bitbucket expert for the team, you’ve been given another task: Demonstr
 1. Update the file named `CONTRIBUTING.md` with the following message:
 
     ```
+    # CONTRIBUTING
     All constributions to this repository should be added to a new branch and submitted as a pull request.
     ```
 
@@ -31,3 +32,58 @@ This challenge should take about 15 minutes to complete.
 
 ## Solution
 
+### 1. Create a branch and add changes
+1. Log into Bitbucket and browse the [workspaces homepage](https://bitbucket.org/account/workspaces/).
+1. Select the workspace you created in the first challenge.
+1. On the workspace overview, select the **source** repository.
+    
+    ![](././02_05-solution-1.png)
+
+1. Select **Branches** on the left sidebar.
+1. Select **Create branch**.
+
+    1. Under **Type**, select **feature**.  *Note how the **Branch name** field is updated to reflect the selected branch type.*
+    1. Confirm that **main** is selected under **From branch**.
+    1. Under **Branch name**, enter `pull request demo`.
+    1. Select **Create**.
+
+    ![](././02_05-solution-2.png)
+
+1. Select **View source**.
+1. Select **CONTRIBUTING.md**.
+1. Select **Edit**.  Modify the file by adding the text as described in the challenge.
+
+    > *NOTE: Confirm that the file is being edited on the branch named `feature/pull-request-demo`.*
+
+    ![](././02_05-solution-3.png)
+
+1. Select **Preview**. Review and confirm your changes.
+1. Select **Commit**.
+1. On the **Commit changes** dialog, update the commit message.
+    
+    > *NOTE: **DO NOT** select "Create a pull request for this change"*
+
+    ![](././02_05-solution-4.png)
+
+1. Select **Commit**.
+
+### 2. Create and merge a pull request
+1. Select **Pull requests** on the left sidebar.
+1. Select **Create pull reqeust**.
+1. Confirm that the **Source Branch** is `feature/pull-request-demo`
+and **Destination Branch** is `main`.
+1. Enter a description.
+1. Select the checkbox next to **Delete `feature/pull-request-demo` after the pull request is merged**.
+
+    ![](././02_05-solution-5.png)
+
+1. Select **Create pull request**
+1. Select **Approve**.
+1. Select **Merge**.
+1. Review the **Merge pull request dialog**. Select **Merge**.
+
+    ![](././02_05-solution-6.png)
+
+1. After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by commiting to the feature branch and merging the branch into the `main` branch.
+
+    ![](./02_05-solution-7.png)
