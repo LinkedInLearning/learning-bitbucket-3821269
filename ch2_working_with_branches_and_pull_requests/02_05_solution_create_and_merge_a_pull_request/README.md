@@ -49,7 +49,7 @@ This challenge should take about 15 minutes to complete.
     1. Under **Branch name**, enter `pull request demo`.
     1. Select **Create**.
 
-    ![](././02_05-solution-2.png)
+    ![Create a feature branch](././02_05-solution-2.png)
 
 1. Select **View source**.
 1. Select **CONTRIBUTING.md**.
@@ -57,7 +57,7 @@ This challenge should take about 15 minutes to complete.
 
     > *NOTE: Confirm that the file is being edited on the branch named `feature/pull-request-demo`.*
 
-    ![](././02_05-solution-3.png)
+    ![Confirm the feature branch is selected](././02_05-solution-3.png)
 
 1. Select **Preview**. Review and confirm your changes.
 1. Select **Commit**.
@@ -65,7 +65,7 @@ This challenge should take about 15 minutes to complete.
 
     > *NOTE: **DO NOT** select "Create a pull request for this change"*
 
-    ![](././02_05-solution-4.png)
+    ![Don't create a pull request using the commit dialog](././02_05-solution-4.png)
 
 1. Select **Commit**.
 
@@ -77,16 +77,16 @@ and **Destination Branch** is `main`.
 1. Enter a description.
 1. Select the checkbox next to **Delete `feature/pull-request-demo` after the pull request is merged**.
 
-    ![](././02_05-solution-5.png)
+    ![Create a pull request](././02_05-solution-5.png)
 
 1. Select **Create pull request**
 1. Select **Approve**.
 1. Select **Merge**.
 1. Review the **Merge pull request dialog**. Select **Merge**.
 
-    ![](././02_05-solution-6.png)
+    ![Merge the pull request](././02_05-solution-6.png)
 
 ## Conclusion
 After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by commiting to the feature branch and merging the branch into the `main` branch.
 
-    ![](./02_05-solution-7.png)
+    ![Review the branch visualization after merging the feature branch into main](./02_05-solution-7.png)
