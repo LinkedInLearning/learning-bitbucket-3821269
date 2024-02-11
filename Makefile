@@ -26,6 +26,7 @@ pdf:
 
 clean:
 	find . -type f -name \*.bak -exec rm -vf {} \;
+	find . -type f -name \*.new -exec rm -vf {} \;
 
 nuke: clean
 	find /tmp/ -type f -name \*.pdf -exec rm -vf {} \;
