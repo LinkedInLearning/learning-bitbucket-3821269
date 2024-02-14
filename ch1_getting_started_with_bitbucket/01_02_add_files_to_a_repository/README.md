@@ -1,5 +1,5 @@
-# ch1_getting_started_with_bitbucket/01_02_add_files_to_a_repository
+# 01_02 add files to a repository
 <!-- FooterStart -->
 ---
-[← ch1_getting_started_with_bitbucket/01_01_public_and_private_repositories](../01_01_public_and_private_repositories/README.md) | [ch1_getting_started_with_bitbucket/01_02_add_an_ssh_key_for_authentication →](../01_03_add_an_ssh_key_for_authentication/README.md)
+[← 01_01 public and private repositories](../01_01_public_and_private_repositories/README.md) | [01_02 add an ssh key for authentication →](../01_03_add_an_ssh_key_for_authentication/README.md)
 <!-- FooterEnd -->

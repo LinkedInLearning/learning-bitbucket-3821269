@@ -27,5 +27,5 @@
 	1. and Repositories
 <!-- FooterStart -->
 ---
-[← 00_02 What You Should Know](../00_02_what_you_should_know/README.md) | [ch0_introduction/00_04_bitbucket_content_organization →](../00_04_bitbucket_content_organization/README.md)
+[← 00_02 What You Should Know](../00_02_what_you_should_know/README.md) | [00_04 Bitbucket Content Organization →](../00_04_bitbucket_content_organization/README.md)
 <!-- FooterEnd -->

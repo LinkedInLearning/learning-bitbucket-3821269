@@ -1,5 +1,5 @@
-# ch3_working_with_jira_cloud/03_04_challenge_link_a_bitbucket_branch_to_jira_cloud
+# 03_06 challenge: link a bitbucket branch to jira cloud
 <!-- FooterStart -->
 ---
-[← ch3_working_with_jira_cloud/03_03_update_and_close_issues_from_bitbucket](../03_05_update_and_close_issues_from_bitbucket/README.md) | [ch3_working_with_jira_cloud/03_05_solution_link_a_bitbucket_branch_to_jira_cloud →](../03_07_solution_link_a_bitbucket_branch_to_jira_cloud/README.md)
+[← 03_05 update and close issues from bitbucket](../03_05_update_and_close_issues_from_bitbucket/README.md) | [03_07 solution: link a bitbucket branch to jira cloud →](../03_07_solution_link_a_bitbucket_branch_to_jira_cloud/README.md)
 <!-- FooterEnd -->

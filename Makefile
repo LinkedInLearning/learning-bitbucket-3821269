@@ -3,11 +3,12 @@ README_FILES := $(shell find . -name 'README.md' -not -path './.git/*')
 hello:
 	@echo "This makefile has the following tasks:"
 	@echo "\tspellcheck  - spell check README files"
+	@echo "\tlinks       - generate footer links for README files"
 	@echo "\tpdf         - generate PDFs for README files"
 	@echo "\tclean       - remove backup files"
 	@echo "\tall         - run all tasks (except clean)"
 
-all: spellcheck pdf
+all: spellcheck links pdf
 	@echo "Done."
 
 spellcheck:
@@ -16,6 +17,12 @@ spellcheck:
 		echo "\t$$file"; \
 		aspell check --mode=markdown --lang=en $$file; \
 	done
+
+links:
+	@echo "Generating footer links for README files..."
+	@python3 ../readme-footer-generator/script.py
+	#@docker pull ghcr.io/managedkaos/readme-footer-generator:main
+	#@docker run --rm --volume .:/data ghcr.io/managedkaos/readme-footer-generator:main
 
 pdf:
 	@echo "Generating PDFs..."
