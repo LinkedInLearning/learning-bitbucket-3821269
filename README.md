@@ -31,4 +31,7 @@ To resolve this issue:
 
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
-
+<!-- FooterStart -->
+---
+[ch0_introduction/00_01_intro →](ch0_introduction/00_01_intro/README.md)
+<!-- FooterEnd -->

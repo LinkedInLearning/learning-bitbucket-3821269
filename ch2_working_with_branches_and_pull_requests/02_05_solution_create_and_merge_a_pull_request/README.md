@@ -90,3 +90,7 @@ and **Destination Branch** is `main`.
 After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by committing to the feature branch and merging the branch into the `main` branch.
 
 ![Review the branch visualization after merging the feature branch into main](./02_05-solution-7.png)
+<!-- FooterStart -->
+---
+[← 02_04 Challenge: Create and Merge a Pull Request](../02_04_challenge_create_and_merge_a_pull_request/README.md) | [03_01 Manage Projects with Jira and Bitbucket →](../../ch3_working_with_jira_cloud/03_01_manage_projects_with_jira_and_bitbucket/README.md)
+<!-- FooterEnd -->

@@ -12,5 +12,7 @@ To get the most out of this course, there are a few things you should be familia
 The course will include basic git commands along the way as needed.  If you are just learning git and need additional resources, here are a few:
 
 - [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064/)
-
-
+<!-- FooterStart -->
+---
+[← ch0_introduction/00_01_intro](../00_01_intro/README.md) | [00_03 Create an Atlassian Account →](../00_03_create_an_atlassian_account/README.md)
+<!-- FooterEnd -->

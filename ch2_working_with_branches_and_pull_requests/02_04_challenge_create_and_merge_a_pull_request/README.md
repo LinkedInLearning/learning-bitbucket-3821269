@@ -29,3 +29,7 @@ As the Bitbucket expert for the team, you’ve been given another task: Demonstr
 1. Review the pull request and then merge the request into the `main` branch.
 
 This challenge should take about 15 minutes to complete.
+<!-- FooterStart -->
+---
+[← 02_03 Create a Pull Request](../02_03_create_a_pull_request/README.md) | [02_05 Solution: Create and Merge a Pull Request →](../02_05_solution_create_and_merge_a_pull_request/README.md)
+<!-- FooterEnd -->
