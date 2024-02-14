@@ -21,7 +21,7 @@ def get_title_from_file(file_path):
 def update_footer_links(readme_files):
     for i, file_path in enumerate(readme_files):
         prev_file_title = get_title_from_file(readme_files[i - 1]) if i > 0 else None
-        next_file_title = get_title_from_file(readme_files[i + 1]) if i < len(readme_files) - 1 else None
+        next_file_title = get_title_from_file(readme_files[0]) if i == len(readme_files) - 1 else get_title_from_file(readme_files[i + 1])
 
         # Read the file and split its content to remove the existing footer
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -35,7 +35,7 @@ def update_footer_links(readme_files):
             prev_link = os.path.relpath(readme_files[i - 1], os.path.dirname(file_path))
             links.append(f"[← {prev_file_title}]({prev_link})")
         if next_file_title:
-            next_link = os.path.relpath(readme_files[i + 1], os.path.dirname(file_path))
+            next_link = os.path.relpath(readme_files[0], os.path.dirname(file_path)) if i == len(readme_files) - 1 else os.path.relpath(readme_files[i + 1], os.path.dirname(file_path))
             links.append(f"[{next_file_title} →]({next_link})")
         footer += " | ".join(links) + "\n<!-- FooterEnd -->\n"
 
@@ -44,6 +44,6 @@ def update_footer_links(readme_files):
             file.write(content.strip() + footer)
 
 if __name__ == "__main__":
-    root_directory = os.getenv('PROJECT_HOME', os.getcwd())  # Use PROJECT_HOME env var, default to current working directory
+    root_directory = os.getenv('PROJECT_HOME', os.getcwd())
     readme_files = find_readme_files(root_directory)
     update_footer_links(readme_files)
