@@ -12,6 +12,8 @@ As the Bitbucket expert for the team, you’ve been given another task: Demonstr
 ## Challenge Tasks
 > *NOTE: If you haven't completed the challenge for Chapter 1, review and complete the steps for [01_07 Solution: Create a Repo and Push Code](../../ch1_getting_started_with_bitbucket/01_07_solution_create_a_repo_and_add_code/README.md) before proceeding with this challenge.
 
+To complete this challenge you’ll need to:
+
 1. Log into Bitbucket and locate the workspace containing the **community** repository you created in the previous challenge.
 1. Inside the **community** repository, create a feature branch named `pull-request-demo`.
 
