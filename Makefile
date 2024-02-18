@@ -20,9 +20,9 @@ spellcheck:
 
 links:
 	@echo "Generating footer links for README files..."
-	@python3 ../readme-footer-generator/script.py
-	#@docker pull ghcr.io/managedkaos/readme-footer-generator:main
-	#@docker run --rm --volume .:/data ghcr.io/managedkaos/readme-footer-generator:main
+	#@python3 ../readme-footer-generator/script.py
+	@docker pull ghcr.io/managedkaos/readme-footer-generator:main
+	@docker run --rm --volume .:/data ghcr.io/managedkaos/readme-footer-generator:main
 
 pdf:
 	@echo "Generating PDFs..."
