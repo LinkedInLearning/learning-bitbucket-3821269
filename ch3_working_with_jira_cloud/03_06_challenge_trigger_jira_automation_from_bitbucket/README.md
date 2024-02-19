@@ -1,6 +1,6 @@
 # 03_06 Challenge: Trigger Jira Automation from Bitbucket
 
-## Challege Scenario
+## Challenge Scenario
 In this challenge, you’ll continue your role as the Bitbucket expert on the team developing the Amazing Mobile App.
 
 Since the last challenge, the application has grown in popularity and has millions of daily active users.  The team has decided to bring on a project manager to help streamline new features and prioritize bug fixes.
@@ -35,8 +35,7 @@ To complete this challenge you’ll need to:
 If you’ve been following along with the challenges so far, this challenge should take about 45 minutes to complete.
 
 You are going to do amazing with this challenge!  Walk through the steps and then join me in the next video to go over the solution.
-
 <!-- FooterStart -->
 ---
-[← 03_05 update and close issues from bitbucket](../03_05_update_and_close_issues_from_bitbucket/README.md) | [03_07 solution: link a bitbucket branch to jira cloud →](../03_07_solution_trigger_jira_automation_from_bitbucket/README.md)
+[← 03_05 update and close issues from bitbucket](../03_05_update_and_close_issues_from_bitbucket/README.md) | [03_07 Solution: Trigger Jira Automation from Bitbucket →](../03_07_solution_trigger_jira_automation_from_bitbucket/README.md)
 <!-- FooterEnd -->
