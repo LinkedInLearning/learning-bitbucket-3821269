@@ -31,6 +31,9 @@ pdf:
 	done < CHAPTER_LIST.txt
 	@cd $(PROJECT_HOME);
 
+countlines:
+	find . -type f -name README.md -exec wc -l {} \; | sort -nr
+
 clean:
 	find . -type f -name \*.bak -exec rm -vf {} \;
 	find . -type f -name \*.new -exec rm -vf {} \;
