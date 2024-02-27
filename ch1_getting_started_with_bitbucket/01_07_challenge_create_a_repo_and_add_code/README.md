@@ -20,5 +20,5 @@ The team is asking you to configure Bitbucket so the community can add files to 
 This challenge should take about 15 minutes to complete.
 <!-- FooterStart -->
 ---
-[← 01_04 push code to remote repo](../01_05_push_code_to_remote_repo/README.md) | [01_07 Solution: Create a Repo and Push Code →](../01_07_solution_create_a_repo_and_add_code/README.md)
+[← README](../01_06_push_code_to_a_remote_repo/README.md) | [01_07 Solution: Create a Repo and Push Code →](../01_08_solution_create_a_repo_and_add_code/README.md)
 <!-- FooterEnd -->
