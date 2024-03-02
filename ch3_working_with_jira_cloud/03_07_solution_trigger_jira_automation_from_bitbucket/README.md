@@ -180,7 +180,8 @@ This challenge provides reinforcement for the the following concepts:
 - Adding new code to the primary codebase by using pull requests
 - Automating issue updates in Jira with automation rules.
 
+
 <!-- FooterStart -->
 ---
-[← 03_06 Challenge: Trigger Jira Automation from Bitbucket](../03_06_challenge_trigger_jira_automation_from_bitbucket/README.md) | [04_01 Next Steps →](../../ch4_conclusion/04_01_next_steps/README.md)
+[← 03_06 Challenge: Trigger Jira Automation from Bitbucket](../03_06_challenge_trigger_jira_automation_from_bitbucket/README.md) | [04_01 Next Steps with Bitbucket →](../../ch4_conclusion/04_01_next_steps/README.md)
 <!-- FooterEnd -->

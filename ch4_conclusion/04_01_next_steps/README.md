@@ -1,4 +1,4 @@
-# 04_01 Next Steps with Bitbuket
+# 04_01 Next Steps with Bitbucket
 
 Take the time to learn about other Bitbucket features like:
 

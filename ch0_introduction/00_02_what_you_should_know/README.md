@@ -13,6 +13,7 @@ The course will include basic git commands along the way as needed.  If you are 
 
 - [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-19417064/)
 
+
 <!-- FooterStart -->
 ---
 [← 00_01 intro](../00_01_intro/README.md) | [00_03 Create an Atlassian Account →](../00_03_create_an_atlassian_account/README.md)

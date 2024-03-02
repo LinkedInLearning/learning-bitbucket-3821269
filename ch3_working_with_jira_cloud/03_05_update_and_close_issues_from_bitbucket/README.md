@@ -1,6 +1,7 @@
 # 03_05 Update and Close Issues from Bitbucket
 
-Refernces to be added...
+References to be added...
+
 
 <!-- FooterStart -->
 ---

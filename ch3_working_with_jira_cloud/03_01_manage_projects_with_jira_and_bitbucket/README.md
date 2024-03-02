@@ -25,7 +25,8 @@ Tasks can be assigned, categorized, and then tracked through various stages of c
 
 - Result is better communication and transparency across the project.
 
+
 <!-- FooterStart -->
 ---
-[← 02_05 Solution: Create and Merge a Pull Request](../../ch2_working_with_branches_and_pull_requests/02_05_solution_create_and_merge_a_pull_request/README.md) | [03_02 connect jira to bitbucket →](../03_02_connect_jira_to_bitbucket/README.md)
+[← 02_05 Solution: Create and Merge a Pull Request](../../ch2_working_with_branches_and_pull_requests/02_05_solution_create_and_merge_a_pull_request/README.md) | [03_02 Connect Jira to Bitbucket →](../03_02_connect_jira_to_bitbucket/README.md)
 <!-- FooterEnd -->

@@ -34,6 +34,7 @@ To complete this challenge you’ll need to:
 
 This challenge should take about 15 minutes to complete.
 
+
 <!-- FooterStart -->
 ---
 [← 02_03 Create a Pull Request](../02_03_create_a_pull_request/README.md) | [02_05 Solution: Create and Merge a Pull Request →](../02_05_solution_create_and_merge_a_pull_request/README.md)

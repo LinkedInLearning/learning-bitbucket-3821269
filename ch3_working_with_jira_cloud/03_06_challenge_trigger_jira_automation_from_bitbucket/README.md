@@ -45,7 +45,8 @@ If you’ve been following along with the challenges so far, this challenge shou
 
 You are going to do amazing with this challenge!  Walk through the steps and then join me in the next video to go over the solution.
 
+
 <!-- FooterStart -->
 ---
-[← 03_05 update and close issues from bitbucket](../03_05_update_and_close_issues_from_bitbucket/README.md) | [03_07 Solution: Trigger Jira Automation from Bitbucket →](../03_07_solution_trigger_jira_automation_from_bitbucket/README.md)
+[← 03_05 Update and Close Issues from Bitbucket](../03_05_update_and_close_issues_from_bitbucket/README.md) | [03_07 Solution: Trigger Jira Automation from Bitbucket →](../03_07_solution_trigger_jira_automation_from_bitbucket/README.md)
 <!-- FooterEnd -->

@@ -17,7 +17,8 @@ A common Git workflow uses the following steps:
 |**git push**|Uploads changes to the remote repository|
 |**git status**|Displays the current branch and state of the local repo</p>Compares the working directory to the remote repository</p>Run this before and after other git commands|
 
+
 <!-- FooterStart -->
 ---
-[← 01_03 clone repo to local environment](../01_04_clone_repo_to_local_environment/README.md) | [README →](../01_06_push_code_to_a_remote_repo/README.md)
+[← 01_04 Clone Repo to Local Environment](../01_04_clone_repo_to_local_environment/README.md) | [01_06 Push Code to a Remote Repo →](../01_06_push_code_to_a_remote_repo/README.md)
 <!-- FooterEnd -->

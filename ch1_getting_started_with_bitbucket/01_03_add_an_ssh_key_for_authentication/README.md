@@ -74,7 +74,8 @@ In summary, this configuration tells the SSH client to use the specific private 
 - Don’t store private keys in public repositories
 - Create dedicated keys for easier key rotation
 
+
 <!-- FooterStart -->
 ---
-[← 01_02 add files to a repository](../01_02_add_files_to_a_repository/README.md) | [01_03 clone repo to local environment →](../01_04_clone_repo_to_local_environment/README.md)
+[← 01_02 add files to a repository](../01_02_add_files_to_a_repository/README.md) | [01_04 Clone Repo to Local Environment →](../01_04_clone_repo_to_local_environment/README.md)
 <!-- FooterEnd -->
