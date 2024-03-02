@@ -1,4 +1,4 @@
-# 00_01 intro
+# 00_01 Introduction
 Modern software development requires tools that track code changes, encourage collaboration, and help us manage multiple projects all at the same time.
 
 [Bitbucket](https://bitbucket.org/) is a cloud-based solution that handles all of these tasks and much more.

@@ -1,4 +1,4 @@
-# 03_04 create an issue and link to bitbucket branch
+# 03_04 Create an Issue and Link to a Bitbucket Branch
 
 ![Create an issue and link to bitbucket](./images/SCR-20240301-pqoy.png)
 

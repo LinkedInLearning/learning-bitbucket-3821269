@@ -16,5 +16,5 @@ The course will include basic git commands along the way as needed.  If you are 
 
 <!-- FooterStart -->
 ---
-[← 00_01 intro](../00_01_intro/README.md) | [00_03 Create an Atlassian Account →](../00_03_create_an_atlassian_account/README.md)
+[← 00_01 Introduction](../00_01_intro/README.md) | [00_03 Create an Atlassian Account →](../00_03_create_an_atlassian_account/README.md)
 <!-- FooterEnd -->
