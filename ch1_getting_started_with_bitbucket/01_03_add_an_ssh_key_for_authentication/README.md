@@ -1,13 +1,14 @@
-# 01_02 Add an SSH Key for Authentication
+# 01_03 Add an SSH Key for Authentication
 
-## Secure Shell (SSH)
-- protocol for securely connecting to remote servers
-- encrypts credentials and data
+## Secure Shell (SSH) Protocol
+- Protocol for securely connecting to remote servers
+- Encrypts credentials and data
 
 ## SSH Keys
-- public and private cryptographic keys
-- public key is shared with remote servers
-- private key is stored locally
+An SSH key pair is made up of public and private cryptographic keys:
+
+- Public key is shared with remote servers
+- Private key is stored locally
 
 ## Git uses SSH protocol for secure connections
 - Local git client uses private key
@@ -72,6 +73,7 @@ In summary, this configuration tells the SSH client to use the specific private 
 - Keep private keys private
 - Don’t store private keys in public repositories
 - Create dedicated keys for easier key rotation
+
 <!-- FooterStart -->
 ---
 [← 01_02 add files to a repository](../01_02_add_files_to_a_repository/README.md) | [01_03 clone repo to local environment →](../01_04_clone_repo_to_local_environment/README.md)

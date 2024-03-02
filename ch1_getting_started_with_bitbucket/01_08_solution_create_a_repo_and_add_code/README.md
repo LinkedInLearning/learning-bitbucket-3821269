@@ -1,6 +1,7 @@
 # 01_07 Solution: Create a Repo and Push Code
 
 ## Challenge Scenario
+
 Let’s use a challenge to apply what you’ve learned about Bitbucket.
 
 You’re part of a software development team working on a new, AMAZING, open-source application.  The team is inviting the community to work with them and they need a cloud-based repository service to store the code.
@@ -8,6 +9,7 @@ You’re part of a software development team working on a new, AMAZING, open-sou
 The team is asking you to configure Bitbucket so the community can add files to the application.  However, they also need to work with some files separately and discretely, away from the application’s code base.
 
 ## Challenge Tasks
+
 1. Log into Bitbucket and create a new workspace.
 1. In the new workspace, create a project named **`amazing`** with two repositories.
 1. The first repo should be named **`community`**.  This repo should be visible to anyone with the URL.
@@ -21,6 +23,7 @@ This challenge should take about 15 minutes to complete.
 ## Solution
 
 ### Create the workspace, project, and repositories
+
 1. Log into Bitbucket and browse the [workspaces homepage](https://bitbucket.org/account/workspaces/).
 1. Select **Create Workspace**.
     1. Enter a name for the workspace.  Because workspace names must be globally unique, pick a workspace name that is unique and easy to recall.
@@ -40,7 +43,8 @@ This challenge should take about 15 minutes to complete.
 1. Confirm that the **community** repository does *not* have a lock icon, indicating the repo is public.
 1. Confirm that the **team** repository has a lock icon, indicating the repo is private.
 
-    ![The team and community repositories](./01_07-solution-1.png)
+    ![The team and community repositories](./images/01_07-solution-1.png)
+
 ### Clone the repositories to your local system
 
 *Repeat the same steps for the **community** and **team** repositories*.
@@ -49,7 +53,7 @@ This challenge should take about 15 minutes to complete.
 1. Select the **Clone** button on the top, right hand side of the page.
 1. On the dialog that appears, confirm that **SSH** is selected and then select the stacked squares icon next to the `git clone ...` command.
 
-    ![Clone using the SSH protocol](./01_07-solution-2.png)
+    ![Clone using the SSH protocol](./images/01_07-solution-2.png)
 
 1. Open a terminal on your local system.  Paste and run the `git clone` command.
 1. Change directories into the repo's working directory: `cd team` or `cd community`.
@@ -71,6 +75,7 @@ This challenge should take about 15 minutes to complete.
 1. Push the commit: `git push`
 
 ### Conclusion
+
 Go back to the Bitbucket web interface and review the:
 
 1. workspace
@@ -79,7 +84,7 @@ Go back to the Bitbucket web interface and review the:
 1. files
 1. commit messages
 
-![The solution for the `team` repo](./01_07-solution-3.png)
+![The solution for the `team` repo](./images/01_07-solution-3.png)
 <!-- FooterStart -->
 ---
 [← 01_06 Challenge: Create a Repo and Push Code](../01_07_challenge_create_a_repo_and_add_code/README.md) | [02_01 Create a Branch →](../../ch2_working_with_branches_and_pull_requests/02_01_create_a_branch/README.md)

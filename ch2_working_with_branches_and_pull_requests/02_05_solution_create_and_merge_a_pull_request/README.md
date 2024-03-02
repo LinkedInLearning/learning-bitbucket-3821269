@@ -1,6 +1,7 @@
 # 02_05 Solution: Create and Merge a Pull Request
 
 ## Challenge Scenario
+
 Let’s use another challenge to practice what you’ve learned about Bitbucket.
 
 In the previous challenge, you configured Bitbucket for The Amazing App project.  You created two repositories; one for contributions from the community and another for the team's internal files.
@@ -10,9 +11,11 @@ Now let's test your Bitbucket skills again.
 As the Bitbucket expert for the team, you’ve been given another task: Demonstrate how the team should review updates to the open-source repo by using branches and pull requests.
 
 ## Challenge Tasks
+
 > *NOTE: If you haven't completed the challenge for Chapter 1, review and complete the steps for [01_07 Solution: Create a Repo and Push Code](../../ch1_getting_started_with_bitbucket/01_07_solution_create_a_repo_and_add_code/README.md) before proceeding with this challenge.*
 >
 > *TLDR? create the following:*
+>
 >- *Workspace*
 >- *Public repository named `community`*
 >- *File named `CONTRIBUTING.md`.*
@@ -24,7 +27,7 @@ As the Bitbucket expert for the team, you’ve been given another task: Demonstr
 
 1. Update the file named `CONTRIBUTING.md` with the following message:
 
-    ```
+    ```text
     # CONTRIBUTING
     All constributions to this repository should be added to a new branch and submitted as a pull request.
     ```
@@ -38,6 +41,7 @@ This challenge should take about 15 minutes to complete.
 ## Solution
 
 ### 1. Create a branch and add changes
+
 1. Log into Bitbucket and browse the [workspaces homepage](https://bitbucket.org/account/workspaces/).
 1. Select the workspace you created in the first challenge.
 1. On the workspace overview, select the **community** repository.
@@ -49,7 +53,7 @@ This challenge should take about 15 minutes to complete.
     1. Under **Branch name**, enter `pull request demo`.
     1. Select **Create**.
 
-    ![Create a feature branch](./02_05-solution-2.png)
+    ![Create a feature branch](./images/02_05-solution-2.png)
 
 1. Select **View source**.
 1. Select **CONTRIBUTING.md**.
@@ -57,7 +61,7 @@ This challenge should take about 15 minutes to complete.
 
     > *NOTE: Confirm that the file is being edited on the branch named `feature/pull-request-demo`.*
 
-    ![Confirm the feature branch is selected](./02_05-solution-3.png)
+    ![Confirm the feature branch is selected](./images/02_05-solution-3.png)
 
 1. Select **Preview**. Review and confirm your changes.
 1. Select **Commit**.
@@ -65,11 +69,12 @@ This challenge should take about 15 minutes to complete.
 
     > *NOTE: **DO NOT** select "Create a pull request for this change"*
 
-    ![Don't create a pull request using the commit dialog](./02_05-solution-4.png)
+    ![Don't create a pull request using the commit dialog](./images/02_05-solution-4.png)
 
 1. Select **Commit**.
 
 ### 2. Create and merge a pull request
+
 1. Select **Pull requests** on the left sidebar.
 1. Select **Create pull request**.
 1. Confirm that the **Source Branch** is `feature/pull-request-demo`
@@ -77,20 +82,21 @@ and **Destination Branch** is `main`.
 1. Enter a description.
 1. Select the checkbox next to **Delete `feature/pull-request-demo` after the pull request is merged**.
 
-    ![Create a pull request](./02_05-solution-5.png)
+    ![Create a pull request](./images/02_05-solution-5.png)
 
 1. Select **Create pull request**
 1. Select **Approve**.
 1. Select **Merge**.
 1. Review the **Merge pull request dialog**. Select **Merge**.
 
-    ![Merge the pull request](./02_05-solution-6.png)
+    ![Merge the pull request](./images/02_05-solution-6.png)
 
 ## Conclusion
+
 After the merge is complete, select **Commits** on the left sidebar.  Review the branch pattern created by committing to the feature branch and merging the branch into the `main` branch.
 
-![Review the branch visualization after merging the feature branch into main](./02_05-solution-7.png)
+![Review the branch visualization after merging the feature branch into main](./images/02_05-solution-7.png)
 <!-- FooterStart -->
 ---
-[← 02_04 Challenge: Create and Merge a Pull Request](../02_04_challenge_create_and_merge_a_pull_request/README.md) | [03_01 Manage Projects with Jira and Bitbucket →](../../ch3_working_with_jira_cloud/03_01_manage_projects_with_jira_and_bitbucket/README.md)
+[← 02_04 Challenge: Create and Merge a Pull Request](../images/02_04_challenge_create_and_merge_a_pull_request/README.md) | [03_01 Manage Projects with Jira and Bitbucket →](../../ch3_working_with_jira_cloud/03_01_manage_projects_with_jira_and_bitbucket/README.md)
 <!-- FooterEnd -->

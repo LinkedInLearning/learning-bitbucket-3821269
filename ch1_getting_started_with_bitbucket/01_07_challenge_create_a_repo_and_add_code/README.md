@@ -1,6 +1,7 @@
 # 01_06 Challenge: Create a Repo and Push Code
 
 ## Challenge Scenario
+
 Let’s use a challenge to apply what you’ve learned about Bitbucket.
 
 You’re part of a software development team working on a new, AMAZING, open-source application.  The team is inviting the community to work with them and they need a cloud-based repository service to store the code.
@@ -8,6 +9,7 @@ You’re part of a software development team working on a new, AMAZING, open-sou
 The team is asking you to configure Bitbucket so the community can add files to the application.  However, they also need to work with some files separately and discretely, away from the application’s code base.
 
 ## Challenge Tasks
+
 1. Log into Bitbucket and create a new workspace.
 1. In the new workspace, create a project named **`amazing`**
 1. Inside the project, create two repositories.
