@@ -32,10 +32,13 @@ pdf:
 	@cd $(PROJECT_HOME);
 
 countlines:
-	find . -type f -name README.md -exec wc -l {} \; | sort -nr
+	@find . -type f -name README.md -exec wc -l {} \; | sort -nr
+
+chapterlist:
+	@find . -type f -name README.md | sed 's/\/README.md//' | sed 's/\.\///' | sed '/\./d' | sort | tee CHAPTER_LIST.txt
 
 overlay:
-	find . -type f -name README.md | sort | sed 's/^\.\///' | sed 's/\// > /g' | sed 's/ > README.md//'
+	@find . -type f -name README.md | sort | sed 's/^\.\///' | sed 's/\// > /g' | sed 's/ > README.md//'
 
 clean:
 	find . -type f -name \*.bak -exec rm -vf {} \;
