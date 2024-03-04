@@ -39,5 +39,5 @@ To start using Bitbucket, you’ll need to create an Atlassian account.
 
 <!-- FooterStart -->
 ---
-[← 00_02 What You Should Know](../00_02_what_you_should_know/README.md) | [00_04 Bitbucket Content Organization →](../00_04_bitbucket_content_organization/README.md)
+[← 00_02 What You Should Know](../00_02_what_you_should_know/README.md) | [00_04 Bitbucket Content Organization →](../00_04_content_org/README.md)
 <!-- FooterEnd -->

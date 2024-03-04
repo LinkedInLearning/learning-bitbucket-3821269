@@ -35,5 +35,5 @@ To resolve this issue:
 
 <!-- FooterStart -->
 ---
-[00_01 Introduction →](ch0_introduction/00_01_intro/README.md)
+[00_01 Introduction →](ch0_intro/00_01_intro/README.md)
 <!-- FooterEnd -->

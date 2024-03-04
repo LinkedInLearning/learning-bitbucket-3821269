@@ -17,5 +17,5 @@ Jira uses rules to describe the triggers and components that implement automatio
 
 <!-- FooterStart -->
 ---
-[← 03_02 Connect Jira to Bitbucket](../03_02_connect_jira_to_bitbucket/README.md) | [03_04 Create an Issue and Link to a Bitbucket Branch →](../03_04_create_an_issue_and_link_to_bitbucket_branch/README.md)
+[← 03_02 Connect Jira to Bitbucket](../03_02_connect_jira/README.md) | [03_04 Create an Issue and Link to a Bitbucket Branch →](../03_04_link_issue/README.md)
 <!-- FooterEnd -->

@@ -48,5 +48,5 @@ You are going to do amazing with this challenge!  Walk through the steps and the
 
 <!-- FooterStart -->
 ---
-[← 03_05 Update and Close Issues from Bitbucket](../03_05_update_and_close_issues_from_bitbucket/README.md) | [03_07 Solution: Trigger Jira Automation from Bitbucket →](../03_07_solution_trigger_jira_automation_from_bitbucket/README.md)
+[← 03_05 Update and Close Issues from Bitbucket](../03_05_close_issue/README.md) | [03_07 Solution: Trigger Jira Automation from Bitbucket →](../03_07_solution1/README.md)
 <!-- FooterEnd -->

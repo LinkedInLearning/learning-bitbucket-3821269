@@ -17,5 +17,5 @@ Review the following documentation for more details:
 
 <!-- FooterStart -->
 ---
-[← 03_01 Manage Projects with Jira and Bitbucket](../03_01_manage_projects_with_jira_and_bitbucket/README.md) | [03_03 Automate Issue Updates →](../03_03_automate_issue_updates/README.md)
+[← 03_01 Manage Projects with Jira and Bitbucket](../03_01_manage_projects/README.md) | [03_03 Automate Issue Updates →](../03_03_automate_issue_updates/README.md)
 <!-- FooterEnd -->

@@ -24,5 +24,5 @@ This challenge should take about 15 minutes to complete.
 
 <!-- FooterStart -->
 ---
-[← 01_06 Push Code to a Remote Repo](../01_06_push_code_to_a_remote_repo/README.md) | [01_07 Solution: Create a Repo and Push Code →](../01_08_solution_create_a_repo_and_add_code/README.md)
+[← 01_06 Push Code to a Remote Repo](../01_06_push_code/README.md) | [01_07 Solution: Create a Repo and Push Code →](../01_08_solution1/README.md)
 <!-- FooterEnd -->

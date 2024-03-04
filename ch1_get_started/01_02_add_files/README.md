@@ -19,5 +19,5 @@ Adding files from the web UI is great but you’ll be better served by cloning a
 
 <!-- FooterStart -->
 ---
-[← 01_01 Public and Private Repositories](../01_01_public_and_private_repositories/README.md) | [01_03 Add an SSH Key for Authentication →](../01_03_add_an_ssh_key_for_authentication/README.md)
+[← 01_01 Public and Private Repositories](../01_01_repos/README.md) | [01_03 Add an SSH Key for Authentication →](../01_03_ssh_key/README.md)
 <!-- FooterEnd -->

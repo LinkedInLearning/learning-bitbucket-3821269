@@ -77,5 +77,5 @@ In summary, this configuration tells the SSH client to use the specific private 
 
 <!-- FooterStart -->
 ---
-[← 01_02 Add Files to a Repository](../01_02_add_files_to_a_repository/README.md) | [01_04 Clone Repo to Local Environment →](../01_04_clone_repo_to_local_environment/README.md)
+[← 01_02 Add Files to a Repository](../01_02_add_files/README.md) | [01_04 Clone Repo to Local Environment →](../01_04_clone_repo/README.md)
 <!-- FooterEnd -->
