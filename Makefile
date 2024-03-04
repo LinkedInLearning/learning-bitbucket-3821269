@@ -35,7 +35,7 @@ countlines:
 	find . -type f -name README.md -exec wc -l {} \; | sort -nr
 
 overlay:
-	find . -type f -name README.md | sort | sed 's/^\.\///' | sed 's/\// > /g'
+	find . -type f -name README.md | sort | sed 's/^\.\///' | sed 's/\// > /g' | sed 's/ > README.md//'
 
 clean:
 	find . -type f -name \*.bak -exec rm -vf {} \;
