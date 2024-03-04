@@ -8,6 +8,8 @@
 
 - Allow work on files at the same time without interference
 
+## Working with a Branch
+
 1. Visualize the main branch as a line, with each commit represented as a dot on the line.
 
     ![The main branch with commits](./images/02_01-Create-a-branch-2.png)
@@ -22,7 +24,7 @@
 
 1. Once the work is complete and verified, branches are merged back into the main branch.
 
-    The point created when two branches are merged is called a **merge commit**.
+    > The point created when two branches are merged is called a **merge commit**.
 
     ![A merge commit where the feature branch is merged into the master branch](./images/02_01-Create-a-branch-5.png)
 
