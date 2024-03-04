@@ -34,6 +34,9 @@ pdf:
 countlines:
 	find . -type f -name README.md -exec wc -l {} \; | sort -nr
 
+overlay:
+	find . -type f -name README.md | sort | sed 's/^\.\///' | sed 's/\// > /g'
+
 clean:
 	find . -type f -name \*.bak -exec rm -vf {} \;
 	find . -type f -name \*.new -exec rm -vf {} \;
