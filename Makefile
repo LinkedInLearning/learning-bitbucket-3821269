@@ -8,7 +8,7 @@ hello:
 	@echo "\tclean       - remove backup files"
 	@echo "\tall         - run all tasks (except clean)"
 
-all: spellcheck footer pdf
+all: spellcheck toc footer pdf
 	@echo "Done."
 
 spellcheck:
@@ -18,11 +18,15 @@ spellcheck:
 		aspell check --mode=markdown --lang=en $$file; \
 	done
 
+toc:
+	@echo "Generating table of contents for README files..."
+	@docker pull ghcr.io/managedkaos/readme-toc-generator:main
+	@docker run --rm ghcr.io/managedkaos/readme-toc-generator:main
+
 footer:
 	@echo "Generating footer links for README files..."
-	#@python3 ../readme-footer-generator/script.py
 	@docker pull ghcr.io/managedkaos/readme-footer-generator:main
-	@docker run --rm --volume .:/data ghcr.io/managedkaos/readme-footer-generator:main
+	@docker run --rm ghcr.io/managedkaos/readme-footer-generator:main
 
 pdf:
 	@echo "Generating PDFs..."

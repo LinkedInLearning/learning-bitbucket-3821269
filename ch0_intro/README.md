@@ -7,5 +7,4 @@
 - [00_04 Bitbucket Content Organization](./00_04_content_org/README.md)
 <!-- TocEnd -->
 
-
 <!-- FooterSkip -->
