@@ -1,4 +1,4 @@
-# Introduction
+# 0. Introduction
 
 <!-- TocStart -->
 - [00_03 Create an Atlassian Account](./ch0_intro/00_03_atlassian_acct/README.md)

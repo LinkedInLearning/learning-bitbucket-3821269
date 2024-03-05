@@ -6,5 +6,5 @@ Repositories can be either public or private.
 
 <!-- FooterStart -->
 ---
-[← Introduction](../../ch0_intro/README.md) | [01_02 Add Files to a Repository →](../01_02_add_files/README.md)
+[← 0. Introduction](../../ch0_intro/README.md) | [01_02 Add Files to a Repository →](../01_02_add_files/README.md)
 <!-- FooterEnd -->
