@@ -11,5 +11,5 @@ Take the time to learn about other Bitbucket features like:
 
 <!-- FooterStart -->
 ---
-[← 03_07 Solution: Trigger Jira Automation from Bitbucket](../../ch3_jira/03_07_solution1/README.md) | [Learning Bitbucket →](../../README.md)
+[← 3. Working with Jira Cloud](../../ch3_jira/README.md) | [4. Conclusion →](../README.md)
 <!-- FooterEnd -->

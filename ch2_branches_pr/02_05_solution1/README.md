@@ -100,5 +100,5 @@ After the merge is complete, select **Commits** on the left sidebar.  Review the
 
 <!-- FooterStart -->
 ---
-[← 02_04 Challenge: Create and Merge a Pull Request](../02_04_challenge1/README.md) | [03_01 Manage Projects with Jira and Bitbucket →](../../ch3_jira/03_01_manage_projects/README.md)
+[← 02_04 Challenge: Create and Merge a Pull Request](../02_04_challenge1/README.md) | [2. Working with Branches and Pull Requests →](../README.md)
 <!-- FooterEnd -->

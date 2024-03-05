@@ -183,5 +183,5 @@ This challenge provides reinforcement for the the following concepts:
 
 <!-- FooterStart -->
 ---
-[← 03_06 Challenge: Trigger Jira Automation from Bitbucket](../03_06_challenge1/README.md) | [04_01 Next Steps with Bitbucket →](../../ch4_conclusion/04_01_next_steps/README.md)
+[← 03_06 Challenge: Trigger Jira Automation from Bitbucket](../03_06_challenge1/README.md) | [3. Working with Jira Cloud →](../README.md)
 <!-- FooterEnd -->
