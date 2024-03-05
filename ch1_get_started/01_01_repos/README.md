@@ -6,5 +6,5 @@ Repositories can be either public or private.
 
 <!-- FooterStart -->
 ---
-[← 00_04 Bitbucket Content Organization](../../ch0_intro/00_04_content_org/README.md) | [01_02 Add Files to a Repository →](../01_02_add_files/README.md)
+[← Introduction](../../ch0_intro/README.md) | [01_02 Add Files to a Repository →](../01_02_add_files/README.md)
 <!-- FooterEnd -->
