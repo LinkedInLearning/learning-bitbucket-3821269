@@ -1,4 +1,4 @@
-# 3. Working with Jira Cloud
+# Working with Jira Cloud
 
 <!-- TocStart -->
 - [03_01 Manage Projects with Jira and Bitbucket](./03_01_manage_projects/README.md)

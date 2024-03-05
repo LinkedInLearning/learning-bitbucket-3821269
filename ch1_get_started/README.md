@@ -1,4 +1,4 @@
-# 1. Getting Started with Bitbucket
+# Getting Started with Bitbucket
 
 <!-- TocStart -->
 - [01_01 Public and Private Repositories](./01_01_repos/README.md)

@@ -1,4 +1,4 @@
-# 2. Working with Branches and Pull Requests
+# Working with Branches and Pull Requests
 
 <!-- TocStart -->
 - [02_01 Create a Branch](./02_01_create_branch/README.md)

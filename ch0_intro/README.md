@@ -1,4 +1,4 @@
-# 0. Introduction
+# Introduction
 
 <!-- TocStart -->
 - [00_01 Introduction](./00_01_intro/README.md)
