@@ -11,7 +11,4 @@
 <!-- TocEnd -->
 
 
-<!-- FooterStart -->
----
-[← 03_07 Solution: Trigger Jira Automation from Bitbucket](03_07_solution1/README.md) | [04_01 Next Steps with Bitbucket →](../ch4_conclusion/04_01_next_steps/README.md)
-<!-- FooterEnd -->
+<!-- FooterSkip -->

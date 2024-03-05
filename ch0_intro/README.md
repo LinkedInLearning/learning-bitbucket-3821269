@@ -8,7 +8,4 @@
 <!-- TocEnd -->
 
 
-<!-- FooterStart -->
----
-[← 00_04 Bitbucket Content Organization](00_04_content_org/README.md) | [01_01 Public and Private Repositories →](../ch1_get_started/01_01_repos/README.md)
-<!-- FooterEnd -->
+<!-- FooterSkip -->

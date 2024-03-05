@@ -12,7 +12,4 @@
 <!-- TocEnd -->
 
 
-<!-- FooterStart -->
----
-[← 01_07 Solution: Create a Repo and Push Code](01_08_solution1/README.md) | [02_01 Create a Branch →](../ch2_branches_pr/02_01_create_branch/README.md)
-<!-- FooterEnd -->
+<!-- FooterSkip -->

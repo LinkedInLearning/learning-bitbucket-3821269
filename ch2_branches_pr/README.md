@@ -9,7 +9,4 @@
 <!-- TocEnd -->
 
 
-<!-- FooterStart -->
----
-[← 02_05 Solution: Create and Merge a Pull Request](02_05_solution1/README.md) | [03_01 Manage Projects with Jira and Bitbucket →](../ch3_jira/03_01_manage_projects/README.md)
-<!-- FooterEnd -->
+<!-- FooterSkip -->
