@@ -46,5 +46,5 @@
 
 <!-- FooterStart -->
 ---
-[← 1. Getting Started with Bitbucket](../../ch1_get_started/README.md) | [02_02 Push Code to a Branch →](../02_02_push_to_branch/README.md)
+[← 01_07 Solution: Create a Repo and Push Code](../../ch1_get_started/01_08_solution1/README.md) | [02_02 Push Code to a Branch →](../02_02_push_to_branch/README.md)
 <!-- FooterEnd -->

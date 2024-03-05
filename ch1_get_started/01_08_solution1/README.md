@@ -89,5 +89,5 @@ Go back to the Bitbucket web interface and review the:
 
 <!-- FooterStart -->
 ---
-[← 01_06 Challenge: Create a Repo and Push Code](../01_07_challenge1/README.md) | [1. Getting Started with Bitbucket →](../README.md)
+[← 01_06 Challenge: Create a Repo and Push Code](../01_07_challenge1/README.md) | [02_01 Create a Branch →](../../ch2_branches_pr/02_01_create_branch/README.md)
 <!-- FooterEnd -->

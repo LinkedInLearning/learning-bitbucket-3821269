@@ -32,5 +32,5 @@ Bitbucket uses three components to organize and manage access to content:
 
 <!-- FooterStart -->
 ---
-[← 00_03 Create an Atlassian Account](../00_03_atlassian_acct/README.md) | [0. Introduction →](../README.md)
+[← 00_03 Create an Atlassian Account](../00_03_atlassian_acct/README.md) | [01_01 Public and Private Repositories →](../../ch1_get_started/01_01_repos/README.md)
 <!-- FooterEnd -->
