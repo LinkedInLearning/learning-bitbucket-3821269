@@ -1,4 +1,4 @@
-# 01_06 Challenge: Create a Repo and Push Code
+# 01_07 Challenge: Create a Repo and Push Code
 
 ## Challenge Scenario
 
