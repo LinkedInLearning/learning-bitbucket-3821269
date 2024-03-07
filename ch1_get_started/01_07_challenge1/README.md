@@ -16,7 +16,8 @@ The team is asking you to configure Bitbucket so the community can add files to 
 1. The first repo should be named **`community`**.  This repo should be visible to anyone with the URL.
 1. The second repo should be named **`team`** and should only be visible by members of the team.
 1. Clone both repos to your local system and add a markdown file named **`CONTRIBUTING.md`** to each repo.
-1. Push the files back to Bitbucket with the commit message **`repo is ready`**.
+1. Add the text **`# Contributing`** at the top of the file.
+1. Push the changes back to Bitbucket with the commit message **`repo is ready`**.
 1. Confirm that both repos have been created per the team's requirements.
 
 This challenge should take about 15 minutes to complete.
