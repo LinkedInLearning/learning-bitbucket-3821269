@@ -25,6 +25,16 @@ Pull requests provide a framework for:
 
 ![Pull request workflow](./images/02_03-Pull-Request-Workflow.png)
 
+## SHENANIGANS!
+Merging is great but what happens if someone has changed the exact same code on the source branch?
+
+You'll encounter a **merge conflict**.
+
+No worries!  There are ways to get around conflicts.  
+
+Check out this Atlassian documentation on resolving merge conflicts on your local system:
+- [Resolve Merge Conflicts](https://support.atlassian.com/bitbucket-cloud/docs/resolve-merge-conflicts/)
+
 
 <!-- FooterStart -->
 ---
