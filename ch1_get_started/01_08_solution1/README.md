@@ -48,7 +48,7 @@ This challenge should take about 15 minutes to complete.
 
 ### Clone the repositories to your local system
 
-*Repeat the same steps for the **community** and **team** repositories*.
+> **Repeat the same steps for the **community** and **team** repositories**.
 
 1. Open the homepage for the repository.
 1. Select the **Clone** button on the top, right hand side of the page.
@@ -58,14 +58,7 @@ This challenge should take about 15 minutes to complete.
 
 1. Open a terminal on your local system.  Paste and run the `git clone` command.
 1. Change directories into the repo's working directory: `cd team` or `cd community`.
-1. Create an empty file named `CONTRIBUTING.md`
-
-    | Operating System      | Command                                          |
-    |-----------------------|--------------------------------------------------|
-    | macOS, Linux, and WSL | `touch CONTRIBUTING.md`                          |
-    | Windows (CMD)         | `type nul > CONTRIBUTING.md`                     |
-    | Windows (PowerShell)  | `New-Item -ItemType File -Name CONTRIBUTING.md`  |
-
+1. Create a file named `CONTRIBUTING.md` and add the text **`# Contributing`** at the top of the file.
 1. Stage the file to be committed: `git add CONTRIBUTING.md` or `git add .`
 1. Create a new commit: `git commit -m "repo is ready"`
 
