@@ -3,7 +3,7 @@ README_FILES := $(shell find . -name 'README.md' -not -path './.git/*')
 hello:
 	@echo "This makefile has the following tasks:"
 	@echo "\tspellcheck  - spell check README files"
-	@echo "\tfooter       - generate footer links for README files"
+	@echo "\tfooter      - generate footer links for README files"
 	@echo "\tpdf         - generate PDFs for README files"
 	@echo "\tclean       - remove backup files"
 	@echo "\tall         - run all tasks (except clean)"
