@@ -29,8 +29,10 @@ Check out Michael's other courses on [LinkedIn Learning](https://www.linkedin.co
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: https://
 
-## <!-- FooterStart -->
+##
 
+
+<!-- FooterStart -->
+---
 [00_01 Introduction →](ch0_intro/00_01_intro/README.md)
-
 <!-- FooterEnd -->
