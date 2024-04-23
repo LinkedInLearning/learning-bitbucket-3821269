@@ -20,7 +20,7 @@
         date >> newfile.txt
 
 1. Run `git status` to see:
-    
+
     - modified files that have not been committed
     - untracked files
     - no changes added to commit (use "git add" and/or "git commit -a")
@@ -68,5 +68,5 @@
 
 <!-- FooterStart -->
 ---
-[← 01_05 Use a Git Workflow](../01_05_git_workflow/README.md) | [01_06 Challenge: Create a Repo and Push Code →](../01_07_challenge1/README.md)
+[← 01_05 Use a Git Workflow](../01_05_git_workflow/README.md) | [01_07 Challenge: Create a Repo and Push Code →](../01_07_challenge1/README.md)
 <!-- FooterEnd -->
