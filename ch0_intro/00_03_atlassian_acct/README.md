@@ -1,8 +1,8 @@
 # 00_03 Create an Atlassian Account
-To start using Bitbucket, you’ll need to create an Atlassian account.  
+To start using Bitbucket, you’ll need to create an Atlassian account.
 
 1. https://id.atlassian.com/signup
-	1. sign up using an email address or an account from:
+	1. Sign up using an email address or an account from:
 
 		1. Google
 		1. Microsoft
